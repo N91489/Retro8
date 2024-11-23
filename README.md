@@ -62,6 +62,6 @@ ROMs are not provided with the project, but can easily be downloaded from source
 ---
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/N91489/Retro8/blob/main/LICENSE) file for details.
 
 
