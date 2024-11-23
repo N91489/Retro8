@@ -35,4 +35,5 @@ cd Retro8
 ```
 
 **2. Build the Project**
-Ensure you have any of the C compiler's,
+
+Ensure you have any of the C compiler's, > gcc
