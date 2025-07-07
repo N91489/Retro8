@@ -45,14 +45,20 @@ make build
 
 ## Controls & ROM Usage
 
-**CHIP-8 Key Layout**  **Interpreter Key Layout**
+**CHIP-8 Key Layout**  
 | 1 | 2 | 3 | C |   | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|---|---|---|---|
 | 4 | 5 | 6 | D |   | Q | W | E | R |
 | 7 | 8 | 9 | E |   | A | S | D | F |
 | A | 0 | B | F |   | Z | X | C | V |
 
-
+**Interpreter Key Layout**
+| 1 | 2 | 3 | 4 |
+|---|---|---|---|
+| Q | W | E | R |
+| A | S | D | F |
+| Z | X | C | V |
+   
 **ROM**
 
 ROMs are not provided with the project, but can easily be downloaded from sources. Just ensure that the file is compatible with CHIP-8 architecture & the file has the extension `.ch8` for the file to be read and runned by the emulator
